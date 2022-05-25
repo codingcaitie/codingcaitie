@@ -1,4 +1,4 @@
-- I have experience in:
+I have experience in:
 -   *Python
 -   *Java Script
 -   *Graphic Design
